@@ -1,28 +1,94 @@
-<h1 align="center">Hi 👋, I'm Bhoomi Shakya</h1><h3 align="center">A passionate Full Stack Developer from India</h3>
-<img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" align="right" width="400"/>
+<h1 align="center">Hi 👋, I'm Bhoomi Shakya</h1>
+<h3 align="center">AI Intern | Full Stack Web Developer | Passionate about Building Intelligent Applications</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhoomishakya&label=Profile%20views&color=0e75b6&style=flat" alt="bhoomishakya" /> </p>
+<img align="right" alt="AI Illustration" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" />
 
-- 🌱 I’m currently learning **NextJs , Machine Learning**
-
-- 👨‍💻 All of my projects are available at [https://bhoomishakya.github.io/Portfolio_Website/](https://bhoomishakya.github.io/Portfolio_Website/)
-
-- 💬 Ask me about **MERN, Coding**
-
-- 📫 How to reach me **siashakya509@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NqWUTeMU_W6E_jli6-713DSIvKKw_wB9/view?usp=sharing](https://drive.google.com/file/d/1NqWUTeMU_W6E_jli6-713DSIvKKw_wB9/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/bhoomi-shakya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhoomi-shakya/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/bhoomi_shakya_c1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/bhoomi_shakya_c1" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/bhoomi_shakya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/bhoomi_shakya/" height="30" width="40" /></a>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=bhoomishakya&label=Profile%20views&color=0e75b6&style=flat" alt="bhoomishakya" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhoomishakya&show_icons=true&locale=en&layout=compact" alt="bhoomishakya" /></p>
+- 🔭 Currently working as an **AI Intern at Meridian Solutions Pvt. Ltd.**, developing LLM-driven multi-agent systems and intelligent applications.
+- 🌱 Actively exploring **Next.js**, **Agentic AI**, and **ML deployment techniques**.
+- 💡 I build production-ready projects that blend AI, automation, and user-centric design.
+- 💬 Ask me about **MERN Stack**, **AI + Web Integration**, and **Coding Challenges**.
+- 📫 Reach me at **siashakya509@gmail.com**
+- 📄 [View My Resume](https://drive.google.com/file/d/1EJ5R-FS9Rpyahj7OYQUGkr6vcc4CHs19/view?usp=sharing)
+- 🌐 [My Portfolio](https://bhoomishakya.github.io/Portfolio_Website/)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomishakya&" alt="bhoomishakya" /></p>
+---
+
+### 🔗 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/bhoomi-shakya/" target="_blank"><img alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" /></a>
+  <a href="https://leetcode.com/u/bhoomi_shakya/" target="_blank"><img alt="LeetCode" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" /></a>
+  <a href="https://www.hackerrank.com/profile/bhoomi_shakya_c1" target="_blank"><img alt="HackerRank" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="30" /></a>
+</p>
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages:** Java, Python, JavaScript, SQL, HTML, CSS  
+**Frontend:** React.js, Tailwind CSS, Chart.js, Bootstrap, Materialize  
+**Backend:** Node.js, Express.js, FastAPI  
+**AI/ML:** Scikit-learn, Pandas, Numpy, Azure AI, LangChain, Agentic AI  
+**Databases:** MongoDB, MySQL, DuckDB, PostgreSQL  
+**Tools:** Postman, Git, VS Code, Azure, LangFlow
+
+---
+
+### 🚀 Recent Projects
+
+- 🧠 **Financial Agent (Phi Framework + YFinance + DuckDuckGo API)**  
+  Multi-agent AI system for real-time market insights and financial data analysis.
+
+- 📊 **DataDiscover.AI (React, Azure, GPT-4)**  
+  AI-powered data visualization tool that supports natural language querying and real-time data interpretation.
+
+- 🎓 **EduLearn.AI (MERN + Azure)**  
+  Personalized AI education platform with progress tracking and smart tutor recommendations.
+
+- 📈 **Supply Chain Chatbot (Streamlit + NVIDIA NIM + LLaMA 3)**  
+  Conversational assistant for real-time supply chain analytics using LLM and DuckDB.
+
+---
+
+### 🏆 Achievements
+
+- 🥇 **1st Runner-up** – SIH Internal Hackathon  
+- 🥈 **2nd Runner-up** – GLA-Thon 2023  
+- ✅ Solved **450+ LeetCode** DSA problems and participated in **15+ contests**  
+- 📜 **Microsoft Certified** Azure AI Engineer Associate (AI-102)
+
+---
+
+### 📚 Education
+
+**GLA University, Mathura**  
+*B.Tech in AIML (2021–2025)* – CGPA: 8.51  
+
+**12th – Dr. MPS World School** – 94.4%  
+**10th – Police Modern Secondary School** – 94%
+
+---
+
+### 💼 Internship Experience
+
+**AI Intern – Meridian Solutions Pvt. Ltd.**  
+*Aug 2024 – Present*  
+> Working on cutting-edge AI technologies, LLM APIs, and automation to build agentic AI systems and scalable applications.
+
+---
+
+### 🔍 GitHub Stats
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhoomishakya&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomishakya" alt="GitHub Streak Stats" />
+</p>
+
+---
+
