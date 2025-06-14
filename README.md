@@ -67,7 +67,7 @@
 ### 📚 Education
 
 **GLA University, Mathura**  
-*B.Tech in AIML (2021–2025)* – CGPA: 8.51  
+*B.Tech in AIML (2021–2025)* – CGPA: 8.6  
 
 **12th – Dr. MPS World School** – 94.4%  
 **10th – Police Modern Secondary School** – 94%
