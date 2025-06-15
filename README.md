@@ -39,21 +39,6 @@
 
 ---
 
-### 🚀 Recent Projects
-
-- 🧠 **Financial Agent (Phi Framework + YFinance + DuckDuckGo API)**  
-  Multi-agent AI system for real-time market insights and financial data analysis.
-
-- 📊 **DataDiscover.AI (React, Azure, GPT-4)**  
-  AI-powered data visualization tool that supports natural language querying and real-time data interpretation.
-
-- 🎓 **EduLearn.AI (MERN + Azure)**  
-  Personalized AI education platform with progress tracking and smart tutor recommendations.
-
-- 📈 **Supply Chain Chatbot (Streamlit + NVIDIA NIM + LLaMA 3)**  
-  Conversational assistant for real-time supply chain analytics using LLM and DuckDB.
-
----
 
 ### 🏆 Achievements
 
