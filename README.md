@@ -14,7 +14,7 @@
 - 💡 I build production-ready projects that blend AI, automation, and user-centric design.
 - 💬 Ask me about **MERN Stack**, **AI + Web Integration**, and **Coding Challenges**.
 - 📫 Reach me at **siashakya509@gmail.com**
-- 📄 [View My Resume](https://drive.google.com/file/d/1EJ5R-FS9Rpyahj7OYQUGkr6vcc4CHs19/view?usp=sharing)
+- 📄 [View My Resume](https://drive.google.com/file/d/1oMtuZUi7bGSZ69lGTwwxS0Np6cXJJzWB/view?usp=sharing)
 - 🌐 [My Portfolio](https://bhoomishakya.github.io/Portfolio_Website/)
 
 ---
