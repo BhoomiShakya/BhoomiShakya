@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhoomi Shakya</h1>
-<h3 align="center">AI Intern | Full Stack Web Developer | Passionate about Building Intelligent Applications</h3>
+<h3 align="center">Associate Data Scientist | AI & Full Stack Developer | Passionate about Building Scalable Intelligent Systems</h3>
 
 <img align="right" alt="AI Illustration" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" />
 
@@ -9,10 +9,11 @@
 
 ---
 
-- 🔭 Currently working as an **AI Intern at Meridian Solutions Pvt. Ltd.**, developing LLM-driven multi-agent systems and intelligent applications.
-- 🌱 Actively exploring **Next.js**, **Agentic AI**, and **ML deployment techniques**.
-- 💡 I build production-ready projects that blend AI, automation, and user-centric design.
-- 💬 Ask me about **MERN Stack**, **AI + Web Integration**, and **Coding Challenges**.
+- 👩‍💻 Currently working as an **Associate Data Scientist at Meridian Solutions Pvt. Ltd.**, building LLM-powered agentic workflows and intelligent systems.
+- 🧠 Experienced in integrating **deep learning, NLP**, and **multi-agent architectures** into real-world AI solutions.
+- 🔭 Projects include AI-enhanced LMS, self-healing template generators (Google ADK), and secure exam proctoring tools.
+- 🌱 Exploring **Next.js**, **LangGraph**, and **cloud-native ML deployment**.
+- 💬 Ask me about **LLMs, Full-Stack AI**, and **DSA (480+ LeetCode problems solved)**.
 - 📫 Reach me at **siashakya509@gmail.com**
 - 📄 [View My Resume](https://drive.google.com/file/d/1oMtuZUi7bGSZ69lGTwwxS0Np6cXJJzWB/view?usp=sharing)
 - 🌐 [My Portfolio](https://bhoomishakya.github.io/Portfolio_Website/)
@@ -33,18 +34,17 @@
 **Languages:** Java, Python, JavaScript, SQL, HTML, CSS  
 **Frontend:** React.js, Tailwind CSS, Chart.js, Bootstrap, Materialize  
 **Backend:** Node.js, Express.js, FastAPI  
-**AI/ML:** Scikit-learn, Pandas, Numpy, Azure AI, LangChain, Agentic AI  
+**AI/ML:** Scikit-learn, Pandas, Numpy, Azure AI, LangChain, Agentic AI, NLP  
 **Databases:** MongoDB, MySQL, DuckDB, PostgreSQL  
-**Tools:** Postman, Git, VS Code, Azure, LangFlow
+**DevOps & Tools:** Docker, Git, GitHub Actions, Azure Blob Storage, Postman, VS Code
 
 ---
-
 
 ### 🏆 Achievements
 
 - 🥇 **1st Runner-up** – SIH Internal Hackathon  
 - 🥈 **2nd Runner-up** – GLA-Thon 2023  
-- ✅ Solved **450+ LeetCode** DSA problems and participated in **15+ contests**  
+- ✅ Solved **480+ LeetCode** DSA problems and participated in **15+ contests**  
 - 📜 **Microsoft Certified** Azure AI Engineer Associate (AI-102)
 
 ---
@@ -59,11 +59,12 @@
 
 ---
 
-### 💼 Internship Experience
+### 💼 Current Role
 
-**AI Intern – Meridian Solutions Pvt. Ltd.**  
-*Aug 2024 – Present*  
-> Working on cutting-edge AI technologies, LLM APIs, and automation to build agentic AI systems and scalable applications.
+**Associate Data Scientist – Meridian Solutions Pvt. Ltd.**  
+*July 2025 – Present*  
+> Designing intelligent, data-driven systems using LLMs, agentic workflows, and deep learning pipelines.  
+> Building scalable architectures for real-world applications in education, finance, and analytics.
 
 ---
 
@@ -74,6 +75,3 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomishakya" alt="GitHub Streak Stats" />
 </p>
-
----
-
