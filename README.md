@@ -15,7 +15,7 @@
 - 🌱 Exploring **Next.js**, **LangGraph**, and **cloud-native ML deployment**.
 - 💬 Ask me about **LLMs, Full-Stack AI**, and **DSA (480+ LeetCode problems solved)**.
 - 📫 Reach me at **siashakya509@gmail.com**
-- 📄 [View My Resume](https://drive.google.com/file/d/1oMtuZUi7bGSZ69lGTwwxS0Np6cXJJzWB/view?usp=sharing)
+- 📄 [View My Resume](https://drive.google.com/file/d/1uIjLK8j4vAzZZHJmZLtDjVYPu3HcxN4g/view?usp=sharing)
 - 🌐 [My Portfolio](https://bhoomishakya.github.io/Portfolio_Website/)
 
 ---
@@ -62,7 +62,7 @@
 ### 💼 Current Role
 
 **Associate Data Scientist – Meridian Solutions Pvt. Ltd.**  
-*July 2025 – Present*  
+*August 2024 – Present*  
 > Designing intelligent, data-driven systems using LLMs, agentic workflows, and deep learning pipelines.  
 > Building scalable architectures for real-world applications in education, finance, and analytics.
 
